@@ -1,0 +1,11 @@
+
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "person".(½Ž¬åøÿÿÿÿ8‡Ð²š¨.
+]
+java:S1854";Remove this useless assignment to local variable "person1".(ªÀ‹°þÿÿÿÿ8²Ã‡›¨.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8€‹†›¨.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.( ³­â8€‹†›¨.
+N
+java:S1481",Remove this unused "person1" local variable.(ªÀ‹°þÿÿÿÿ8²Ã‡›¨.

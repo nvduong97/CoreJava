@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡¯±’ùÿÿÿÿ8àğØ¢.
+O
+java:S1611"2Remove the parentheses around the "name" parameter(÷Ã¾ä8àğØ¢.
+n
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ù‘”“8 ŸØ¢.
+J
+java:S1604"(Make this anonymous inner class a lambda(şòĞúıÿÿÿÿ8 ŸØ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Úï³—8àğØ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ã¾ä8àğØ¢.

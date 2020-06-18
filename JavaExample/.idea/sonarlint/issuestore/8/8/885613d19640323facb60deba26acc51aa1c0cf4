@@ -1,0 +1,15 @@
+
+L
+java:S1144$"*Remove this unused private "setUp" method.(üæ–±şÿÿÿÿ8š¶¼´ª.
+T
+java:S1854&"8Remove this useless assignment to local variable "node".(ÛÊŸL8š¶¼´ª.
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÙÆäÊÿÿÿÿÿ8ñ»´ª.
+E
+java:S1481&")Remove this unused "node" local variable.(ÛÊŸL8š¶¼´ª.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë¤ä 8ŠÊØ³ª.
+h	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ç¿Ô8ŠÀ»´ª.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³£Ï²8ÆûØ³ª.
+
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ç¾ø8ÆûØ³ª.

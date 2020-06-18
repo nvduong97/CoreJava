@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÆÊ8´æÕŠ¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œæÉßúÿÿÿÿ8™Œâ±¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±Ì¡ßøÿÿÿÿ8ş÷º±¡.
+N
+java:S1612",Replace this lambda with a method reference.(±Ì¡ßøÿÿÿÿ8›”»±¡.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8ş÷º±¡.

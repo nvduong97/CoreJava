@@ -1,0 +1,16 @@
+
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(»Í†ï8Ò«¯Ø¢.
+L
+java:S1611	"/Remove the parentheses around the "e" parameter(ú–Ï¡8Ò«¯Ø¢.
+L
+java:S1611
+"/Remove the parentheses around the "e" parameter(»Í†ï8Ò«¯Ø¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢®ïý8Ò«¯Ø¢.
+L
+java:S1611"/Remove the parentheses around the "e" parameter(¢®ïý8Ò«¯Ø¢.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ú–Ï¡8Ò«¯Ø¢.
+n
+java:S4276	"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ú–Ï¡8ëÃ¯Ø¢.
+s
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ÔøÁÞþÿÿÿÿ8ëÃ¯Ø¢.

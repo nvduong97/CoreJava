@@ -1,0 +1,8 @@
+
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óĞ­¬¬.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ĞöĞê8óĞ­¬¬.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çÛŒõüÿÿÿÿ8óĞ­¬¬.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8óĞ­¬¬.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÉ8¤½Î¬¬.

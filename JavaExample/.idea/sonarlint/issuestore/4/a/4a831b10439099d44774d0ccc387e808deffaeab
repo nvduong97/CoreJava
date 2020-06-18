@@ -1,0 +1,21 @@
+
+S
+java:S1854
+"6Remove this useless assignment to local variable "s2".(¾Êö¼8ø®ÃÃ .
+D
+java:S1481
+"'Remove this unused "s2" local variable.(¾Êö¼8ø®ÃÃ .
+W
+java:S1854	"5Remove this useless assignment to local variable "s".(´ØÍÑüÿÿÿÿ8ÌÿÁÃ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êñÛÿÿÿÿÿ8¯‘ÂÃ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôÿ‡ùÿÿÿÿ8¯‘ÂÃ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£Ù«©8»»ØÁ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Øê÷Ç8è±êÁ .
+o	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëŸûÿÿÿÿ8¯‘ÂÃ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦©8»»ØÁ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ÉÁÄûÿÿÿÿ8¯‘ÂÃ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®ÂÉè8¯‘ÂÃ .
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Øµ²‹8§£âÁ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8¯‘ÂÃ .
+H
+java:S1481	"&Remove this unused "s" local variable.(´ØÍÑüÿÿÿÿ8ÌÿÁÃ .
